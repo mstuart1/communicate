@@ -1,11 +1,9 @@
-name: "my-website-name"
+name: "Communicating Science"
 output_dir: "."
 navbar:
-  title: "Website title"
+  title: "Communicating Science"
   left:
     - text: "Overview"
       href: index.html
-    - text: "Weekly schedule"
-      href: schedule.html
-    - text: "Assignments"
-      href: assignments.html
+    - text: "Summary of 70-70 filtering"
+      href: filtering_70-70.nb.html
